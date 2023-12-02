@@ -33,7 +33,7 @@ ikb_no_like = InlineKeyboardMarkup(inline_keyboard=[
 ])
 
 
-API_TOKEN = '6732238493:AAFea5XHwhXI5t0FpxO3AUfPbebgU_TGRnk'
+API_TOKEN = 'YOUR TOKEN'
 
 count_img = 0 # external picture counter
 
